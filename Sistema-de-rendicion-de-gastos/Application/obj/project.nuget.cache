@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1w/qrLztxgxJ2wT59AqubVGTl/xHrJn+/Kmc5oKtcaI/p0KH+uQUlEy/ra1kdpibEVnf1Wu0OOFd84ECnfkeNQ==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\ASP.NET\\Final-Proyecto\\CompanyOrganization\\Sistema-de-rendicion-de-gastos\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\54911\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\54911\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.8.0\\fluentvalidation.dependencyinjectionextensions.11.8.0.nupkg.sha512",
+    "C:\\Users\\54911\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
